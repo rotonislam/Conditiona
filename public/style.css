@@ -1,0 +1,18 @@
+/* button{
+    padding: 10px;
+    background-color: limegreen;
+    border-radius: 5px;
+    color: white;
+    font-size: 2rem;
+    width: 80px;
+
+}
+
+body{
+    background-color: rgb(78 , 75 , 75);
+    color: white;
+} */
+
+.ParentDiv{
+    background-color: yellow;
+}
