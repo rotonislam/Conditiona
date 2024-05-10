@@ -2,10 +2,6 @@ import React from 'react'
 
 
 
-
-
-
-
 function Event_bubling (){
 
     const handleClick = (event) => {
